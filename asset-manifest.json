@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/battleVersePromo/static/css/main.0bd98d7e.chunk.css",
-    "main.js": "/battleVersePromo/static/js/main.7eb3df07.chunk.js",
-    "main.js.map": "/battleVersePromo/static/js/main.7eb3df07.chunk.js.map",
+    "main.js": "/battleVersePromo/static/js/main.612ae029.chunk.js",
+    "main.js.map": "/battleVersePromo/static/js/main.612ae029.chunk.js.map",
     "runtime-main.js": "/battleVersePromo/static/js/runtime-main.dfe5b34b.js",
     "runtime-main.js.map": "/battleVersePromo/static/js/runtime-main.dfe5b34b.js.map",
     "static/js/2.dd338c1f.chunk.js": "/battleVersePromo/static/js/2.dd338c1f.chunk.js",
@@ -102,6 +102,6 @@
     "static/js/runtime-main.dfe5b34b.js",
     "static/js/2.dd338c1f.chunk.js",
     "static/css/main.0bd98d7e.chunk.css",
-    "static/js/main.7eb3df07.chunk.js"
+    "static/js/main.612ae029.chunk.js"
   ]
 }
